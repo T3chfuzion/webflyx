@@ -1,5 +1,5 @@
 # content
-[200~# content
+[200~# contents
 This is a test file to see if the hexadecimal representation works correctly.
 We need enough lines to ensure the output has required address lines.
 Let's add a few more lines just to be certain.
